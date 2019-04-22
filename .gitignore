@@ -3,3 +3,4 @@
 *.hhm
 *.err
 .ipynb_checkpoints/
+*.sh
