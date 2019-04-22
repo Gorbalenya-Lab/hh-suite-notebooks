@@ -2,3 +2,4 @@
 *.hhr
 *.hhm
 *.err
+.ipynb_checkpoints/
