@@ -5,4 +5,4 @@
 .ipynb_checkpoints/
 *.sh
 tmp
-*.pdf
+# *.pdf
