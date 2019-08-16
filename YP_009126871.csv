@@ -1,3 +1,0 @@
-Query,Query_coords,Target,Iteration,Comment,Probability,P-value,Score,Score_SS,Q_len,T_len,Q_Neff,T_Neff
-YP_009126871.1,1-3374,PF01003.18,1,iteration #1,68.88,0.00019,40.08,5.3,3374,114,1.0,4.1
-YP_009126871.1,1-96,PF01003.18,2,iteration #2,95.48,9.2E-07,38.71,5.3,96,114,1.0,4.1
